@@ -1,0 +1,17 @@
+{
+  "internalname": "bana",
+  "displayname": "bana",
+  "bulletdata": {
+
+    "damage": 1,
+    "burn": 5,
+    "scatter": 9999999999999999999999999999999999999999
+
+  },
+  "recipedata": {
+
+    "def:wood":{ "def:furnace": "bana", "def:refiner": "bana" },
+     "def:stone":{ "def:furnace": "bana", "def:refiner": "bana" },
+      "def:ironore":{ "def:furnace": "bana", "def:refiner": "bana" }
+  }
+}
